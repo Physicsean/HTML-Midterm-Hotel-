@@ -1,0 +1,117 @@
+li {
+    display: inline;
+
+}
+ol {
+	background-color: ;
+	color:blue;
+	font-size:30px;
+	list-style-type:decimal;
+}
+ul{
+	background-color:pink;
+	color: blue;
+	font-family: Comic Sans Ms;
+	font-size: 30px;
+}
+
+p {
+	color: black;
+	font-size:18px;
+}
+
+#nav_menu ul {
+	list-style-type:none;
+	padding:1em 0;
+	text-align: center;
+	border-top: 2px solid black;
+	border-bottom:2px solid black;}
+
+#nav_menu ul li {
+	display:inline;
+	padding: 0 1.5em;}
+
+#nav_menu ul li{
+	font-weight: bold;
+	color:blue;}
+
+	#nav_menu ul li a.current { text-decoration: none; }
+
+aside{
+	width:30%;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+style="max-width:30%;height:auto;" style ="width:30%" style = "height:25%"
+
+img {
+
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: center;
+    background-repeat: repeat;
+    padding: 50px; 
+    max-width: 100%;
+    max-height:auto
+
+   body {
+    background-color: darkblue;
+}
+    p  {
+	color:purple;
+	font-size: 20px;
+    text-align: left;
+}
+h2 {
+	color:grey;
+	font-family: Comic sans Ms;
+	text-align: left;
+	background-color:green;
+	font-size: 40px;
+	}
+.a{
+    color:orange;
+    font-size:40px;s
+    font-family: Helvetica;
+    background-color: white;
+}
+.b{
+    color:red;
+    font-size:20px;
+    font-family:Lucida Console
+}  
+ol {
+	background-color: green;
+	color:blue;
+	font-size:30px;
+}
+ul{
+	background-color:pink;
+	color: blue;
+	font-family: Comic Sans Ms;
+	font-size: 30px;
+	  list-style: square inside url("sqpurple.gif");
+}
+li{
+	color:white;
+}
+.d{
+color :tomato;
+}
+
+h1{
+	font-size: 50px;
+	color:yellow;
+	background-color: brown;
+}
+.name {
+	color: yellow;
+	font-size: 45
+}
+    
